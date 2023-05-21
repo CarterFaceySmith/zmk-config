@@ -15,8 +15,7 @@
     #define EXT 2
     #define FNC 3
     #define SYM2 4
-    #define ACCENT 5
-		#define SETTINGS 6
+		#define SETTINGS 5
 // -----------------
 
 &mt {
@@ -113,16 +112,6 @@
 		&kp IT_BKTK &kp IT_TILDE &kp IT_BSLH &kp IT_PIPE &kp IT_AND         &none &none &none &none &none
 		&none 			&none 			 &kp IT_SECT &kp IT_CCED &kp IT_DEG				  &none &none &none &none &none
           				           												&none &none        	&none &none 
-		>;
-		};
-
-        // Used to type regional accents.
-       		accent_layer {
-		bindings = <
-		&none &none &none &kp IT_CEGR &none                         &none &none &none &none &none 
-		&kp IT_AGRV &kp IT_IGRV &kp IT_OGRV &kp IT_EGRV &kp IT_EACU &none &none &none &none &none
-		&none &none &none &kp IT_UGRV &none                         &none &none &none &none &none
-          				     &none &none                         &none &none 
 		>;
 		};
 
