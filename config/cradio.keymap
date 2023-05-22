@@ -35,8 +35,12 @@
 
     conditional_layers {
         compatible = "zmk,conditional-layers";
-        tri_layer {
-            if-layers = <RIG LEF>;
+        tri_layer_win {
+            if-layers = <WRIG LEF>;
+            then-layer = <TRI>;
+        };
+        tri_layer_mac {
+            if-layers = <MRIG LEF>;
             then-layer = <TRI>;
         };
     };
