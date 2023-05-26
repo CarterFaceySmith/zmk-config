@@ -108,7 +108,7 @@
             &kp DEL   &kp CAPS    &none     &none     &none          &none    &kp LARW   &kp DARW   &kp UARW   &kp RARW 
         //├──────────┼──────────┼──────────┼──────────┼──────────┤   ├──────────┼──────────┼──────────┼──────────┼──────────┤
         //│          │          │          │          │          │   │          │          │          │          │          │
-            &kp LCTRL  &kp LALT  &kp LGUI   &none      &none            &none     &none     &kp RGUI   &kp RCTRL  &kp RALT 
+            &kp LCTRL  &kp LALT  &kp LGUI   &none      &none            &none     &none     &kp RGUI   &kp RALT  &kp RCTRL 
         //╰──────────┴──────────┴──────────┼──────────┼──────────┤   ├──────────┼──────────┼──────────┴──────────┴──────────╯
                                              &trans     &kp ESC        &trans     &trans
         //                                 ╰──────────┴──────────╯   ╰──────────┴──────────╯
