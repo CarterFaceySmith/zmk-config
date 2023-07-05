@@ -126,7 +126,7 @@
             &kp A      &kp S      &kp D       &kp F     &kp G          &kp H      &kp J       &kp K      &kp L    &kp SEMI
         //├──────────┼──────────┼──────────┼──────────┼──────────┤   ├──────────┼──────────┼──────────┼──────────┼──────────┤
         //│  Z       │  X       │  C       │  V       │  B       │   │  N       │  M       │ GAMING   │ . >      │ ENTER    │
-            &kp Z      &kp X      &kp C      &kp V      &kp B          &kp N      &kp M      &tg GAME  &kp DOT    &kp ENTER
+            &kp Z      &kp X      &kp C      &kp V      &kp B          &kp N      &kp M      &tog GAME  &kp DOT    &kp ENTER
         //╰──────────┴──────────┴──────────┼──────────┼──────────┤   ├──────────┼──────────┼──────────┴──────────┴──────────╯
                                            &kp SPACE  &kp LSHIFT      &lt LEF SPACE  &lt WRIG BSPC
         //                                 ╰──────────┴──────────╯   ╰──────────┴──────────╯
