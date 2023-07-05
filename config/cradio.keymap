@@ -17,8 +17,9 @@
 #define WRIG 2
 #define MRIG 3
 #define GAME 4
-#define LEF 5
-#define TRI 6
+#define LGAME 5
+#define LEF 6
+#define TRI 7
 
 / {
     behaviors {
